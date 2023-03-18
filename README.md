@@ -1,5 +1,8 @@
 # GFX Framework
 
+## IMPORTANT INFO
+Labs and assignments can be found under src/lab_m1/ => labX for labs and temaX for assignments.
+
 ## :sparkles: Introduction
 
 This project is a tiny graphics framework used by the Computer Graphics Department of the Polytechnic University of Bucharest.
